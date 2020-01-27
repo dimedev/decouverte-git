@@ -6,6 +6,9 @@ const menu = `
     <li>
         <a href="contact.html">Contact</a>
     </li>
+    <li>
+        <a href="presentation.html">Presentation</a>
+    </li>
 </ul>
 `;
 
